@@ -1,2 +1,1 @@
-# Scala
-Scala Tp And Cours
+compile pythn and add notes
